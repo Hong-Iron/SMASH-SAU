@@ -1,0 +1,34 @@
+{
+ "region": "경기 안산시 단원구 초지동",
+ "nameEn": "Shin Ansan University",
+ "added": "2026-11-01T02:27",
+ "rank": 117,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "HYU-ERICA",
+   "campus": "한양대학교 ERICA캠퍼스",
+   "km": 3.0
+  },
+  {
+   "code": "SEOULARTS",
+   "campus": "서울예술대학교",
+   "km": 3.6
+  },
+  {
+   "code": "ANSAN",
+   "campus": "안산대학교",
+   "km": 6.0
+  },
+  {
+   "code": "TUKOREA",
+   "campus": "한국공학대학교",
+   "km": 7.3
+  },
+  {
+   "code": "SNU-SIHEUNG",
+   "campus": "서울대학교 시흥캠퍼스",
+   "km": 9.8
+  }
+ ]
+}
